@@ -27,5 +27,6 @@ int main()
     a[j]='\0';
 
     puts(a);
+    cout<<"\n";
     return 0;
 }
